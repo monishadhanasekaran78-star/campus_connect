@@ -1,0 +1,6 @@
+{
+  "name": "CampusConnect - College Community Portal",
+  "description": "Centralized college portal connecting Students, Faculty, Mentors, Class Advisors, and Administrators for academics, OD, LMS, meetings, placements, and clubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

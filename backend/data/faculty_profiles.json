@@ -1,0 +1,69 @@
+[
+  {
+    "userId": "6abbc16325cea8410c777d40",
+    "name": "Dr. Rajesh Kumar",
+    "facultyId": "FAC-CSE-014",
+    "email": "rajeshkumar@kiot.ac.in",
+    "phone": "+91 98402 34567",
+    "department": "Computer Science and Engineering",
+    "designation": "Associate Professor & Student Mentor",
+    "facultyType": "mentor",
+    "officeLocation": "Block B, Academic Complex Room 204",
+    "availableSlots": [
+      {
+        "day": "Monday",
+        "startTime": "10:00 AM",
+        "endTime": "11:30 AM",
+        "isAvailable": true
+      },
+      {
+        "day": "Wednesday",
+        "startTime": "02:00 PM",
+        "endTime": "03:30 PM",
+        "isAvailable": true
+      },
+      {
+        "day": "Friday",
+        "startTime": "11:00 AM",
+        "endTime": "12:30 PM",
+        "isAvailable": true
+      }
+    ],
+    "_id": "6abbc1633c53ba44bbcfe921",
+    "createdAt": "2026-09-29T13:47:15.140Z",
+    "updatedAt": "2026-09-29T13:47:15.140Z"
+  },
+  {
+    "userId": "6abbc1637e7aba8580788358",
+    "name": "Prof. Ananya Sharma",
+    "facultyId": "FAC-CSE-009",
+    "email": "ananyasharma@kiot.ac.in",
+    "phone": "+91 98403 45678",
+    "department": "Computer Science and Engineering",
+    "designation": "Assistant Professor & Class Advisor",
+    "facultyType": "advisor",
+    "officeLocation": "Block B, Academic Complex Room 208",
+    "assignedClass": {
+      "department": "Computer Science and Engineering",
+      "year": 3,
+      "section": "A"
+    },
+    "availableSlots": [
+      {
+        "day": "Tuesday",
+        "startTime": "09:30 AM",
+        "endTime": "11:00 AM",
+        "isAvailable": true
+      },
+      {
+        "day": "Thursday",
+        "startTime": "03:00 PM",
+        "endTime": "04:30 PM",
+        "isAvailable": true
+      }
+    ],
+    "_id": "6abbc163dc3606ae11d4625b",
+    "createdAt": "2026-09-29T13:47:15.140Z",
+    "updatedAt": "2026-09-29T13:47:15.140Z"
+  }
+]
